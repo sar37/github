@@ -22,6 +22,7 @@ Three Little Pigs, the straw houseThen the wolf showed his teeth and said:
   Then I'll huff 
   and I'll puff 
   and I'll blow your house down.
+  ![wolf](https://assets.americanliterature.com/images/childrens-stories/three-little-pigs-straw.avif)
 So he huffed and he puffed and he blew the house down! The wolf opened his jaws very wide and bit down as hard as he could, but the first little pig escaped and ran away to hide with the second little pig.
 
 The wolf continued down the lane and he passed by the second house made of sticks; and he saw the house, and he smelled the pigs inside, and his mouth began to water as he thought about the fine dinner they would make.
