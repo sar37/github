@@ -1,5 +1,5 @@
 # The Three Little Pigs
-The story of The Three Little Pigs featured here has been adapted from different sources and from childhood memory. The primary sources are English Fairy Tales, retold by Flora Annie Steel (1922) with illustrations by L. Leslie Brooke from the 1904 version. This story is featured in our Favorite Fairy Tales and Children's Stories.
+The story of The *Three Little Pigs* featured here has been adapted from different sources and from childhood memory. The primary sources are English Fairy Tales, retold by **Flora Annie Steel** (1922) with illustrations by **L. Leslie Brooke** from the 1904 version. This story is featured in our Favorite Fairy Tales and Children's Stories.
 The Three Little PigsOnce upon a time there was an old mother pig who had three little pigs and not enough food to feed them. So when they were old enough, she sent them out into the world to seek their fortunes.
 
 The first little pig was very lazy. He didn't want to work at all and he built his house out of straw. The second little pig worked a little bit harder but he was somewhat lazy too and he built his house out of sticks. Then, they sang and danced and played together the rest of the day.
@@ -30,7 +30,7 @@ So he knocked on the door and said:
   Little pigs! Little pigs!
   Let me in! Let me in!
 But the little pigs saw the wolf's pointy ears through the keyhole, so they answered back:
-
+[I'm an inline-style link] (https://americanliterature.com/childrens-stories/the-three-little-pigs)
   No! No! No!
   Not by the hairs on our chinny chin chin!
 So the wolf showed his teeth and said:
